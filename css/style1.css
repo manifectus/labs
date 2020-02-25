@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0 1.5rem;
+}
+table {
+    margin-bottom: 3rem;
+    text-align: center;
+}
+.second td {
+    width: 150px;
+}
+img {
+    display: block;
+    max-width: 100%;
+}
